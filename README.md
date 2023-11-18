@@ -30,34 +30,34 @@ Map Wonders is more than an app; it's your passport to a realm of endless explor
 
 Discover how the app provides you with tools to find unique locations ready to unfold before you. Our search is not just a review of places; it's an inspiring journey across borders and cultures. Let's embark on this adventure together to uncover and share the most captivating places the world has to offer!
 
-<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/e440fd61-de3d-49bf-aee9-50e1b3383011)" width="300" height="650">
-<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/41b0d606-463b-4b1d-bc04-d47f45b0d53a)" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/eabbfdc6-5c3a-49c8-b294-f4d134bd6c43)" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/9ade303d-f351-4b92-b2e7-138b75def49e)" width="300" height="650">
 
 ## Exploring Intriguing Locations on Map Wonders
 
 Uncover the magic as we guide you through the process of browsing captivating destinations with the app's sleek interface. From panoramic landscapes to hidden urban gems, Map Wonders transforms your exploration into an immersive visual experience. 
 
-<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/b120f431-a040-4bb6-a242-73eaf3096949)" width="300" height="650">
-<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/71fc2280-4b27-44ae-8da6-eedee9a798a5)" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/64983450-0751-45cd-a2a0-c5e7da0d9ae8)" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/8b23eb4c-5d77-4de9-9a60-318ff998e071)" width="300" height="650">
 
 ## Your Insights Matter: Browse and Share Reviews
 
 Elevate your guiding experience by exploring locations on Map Wonders and leaving your mark through reviews. It's your chance to share impressions, inspire fellow travelers, and make each spot on the map even more distinctive. Tap, scroll, and exchange thoughts, infusing each location with your unique perspective. Your voice shapes a community of explorers, ready to share the joy of travel.
 
-<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/22bea4dd-84b1-4081-b103-d30b6c509b68)" width="300" height="650">
-<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/b9235130-c537-4341-a623-df594fb298be)" width="300" height="650">
-<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/5990cb33-33e4-40bd-a574-d55c7ce5e722)" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/668e2942-afae-4bc2-b267-4b329df9874b)" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/2b565e89-df55-4f88-bf38-52517dd8f4d9)" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/4146398c-5628-4fe9-be2b-f69ab6cd1620)" width="300" height="650">
 
 ## Set Arrival Notifications for Interesting Places
 
 Never miss a beat! With Map Wonders, you have the ability to set notifications and stay informed as you approach fascinating locations. Simply set a reminder, and your adventure becomes even more memorable. Let your phone alert you as you approach the next point on your route, giving you the chance to savor every corner of the world.
 
-<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/0785eefb-8e50-4c0e-a32b-c6dce5cd93f8)" width="300" height="650">
-<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/fb4cca8e-c3f8-4058-b290-d81a1d144c4e)" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/47f02760-c3c3-4bdd-85fe-d47f35c8d4c5)" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/1268dc7c-6a96-48ea-a2d5-748d3097d18b)" width="300" height="650">
 
 ## Track All Your Actions
 
 In the world of Map Wonders, every step, every review, and every added location is a part of your unique journey. Effortlessly track your exploration history, revisit cherished places, and reflect on the stories you've shared. With a comprehensive record of your experiences, your Map Wonders profile becomes a personalized travelogue, capturing the essence of your wanderlust-filled pursuits.
 
-<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/838f1904-b808-41d8-aee4-74417c43a287)" width="300" height="650">
-<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/70a85203-8937-45c3-b112-216ec0653579)" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/12661a28-02d3-40dd-aa47-00d7ccd93944)" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/e64ebc45-6825-43f8-98f4-0cb9c3a00945)" width="300" height="650">
