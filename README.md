@@ -26,6 +26,12 @@ Premium Subscription Features:
 
 Map Wonders is more than an app; it's your passport to a realm of endless exploration. Embark on a journey with us where every feature enhances your experience, making your travel adventures even more extraordinary. 🌍✨
 
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/83c9085c-9111-47f7-ab6a-a1088aae349c" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/922833dd-3c79-4f1b-a850-edbe07b78cb0" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/071593f4-75d5-405d-a693-5274e68ef0f6" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/7d141c69-bee8-47db-b299-f862c61df671" width="300" height="650">
+<img src="https://github.com/bubiryov/Map-Wonders/assets/124048186/7ca304db-0b62-4ddd-a730-d1965a3cf0c5" width="300" height="650">
+
 ## New Horizons with Map Wonders
 
 Discover how the app provides you with tools to find unique locations ready to unfold before you. Our search is not just a review of places; it's an inspiring journey across borders and cultures. Let's embark on this adventure together to uncover and share the most captivating places the world has to offer!
